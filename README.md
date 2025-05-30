@@ -70,5 +70,5 @@
 ## 🧠 Author
 
 **Omar Ramadan**  
-3rd Year CS Student | Data Science Track  
-GitHub: [github.com/your-username](https://github.com/your-username)
+3rd Year CS Student | Data Analysis and DataScience Track  
+GitHub: [github.com/your-username](https://github.com/omarrama555)
